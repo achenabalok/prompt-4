@@ -1,0 +1,49 @@
+{
+  "image_generation_prompt": {
+    "subject": {
+      "description": "Young woman with a strong resemblance to Sadie sink.",
+      "hair": "Shoulder-length blonde hair, wet and slicked back, texture visible with individual strands clinging to the neck.",
+      "face": "Serious, regal expression, looking down at the camera with a confident gaze. Natural, dewy skin texture with visible pores and water droplets.",
+      "body": "Fit physique, skin showing signs of wetness and realistic skin tones."
+    },
+    "attire": {
+      "clothing": "A sleeveless, dusty rose/pink Greek-style dress (chiton) with a deep V-neckline. The fabric is wet, clinging realistically to the body, showcasing draped folds and transparency where soaked.",
+      "style": "Ancient Grecian inspired, ethereal and romantic."
+    },
+    "styling_and_accessories": {
+      "jewelry": [
+        "Layered gold chain necklaces of varying lengths and textures, one featuring a round pendant.",
+        "A gold snake armlet coiled around the upper left bicep.",
+        "Small, subtle stud earrings."
+      ]
+    },
+    "environment": {
+      "setting": "Flooded ancient ruins reminiscent of a Greek or Roman temple.",
+      "background": "Tall, weathered stone columns (Corinthian or Ionic order) rising from the water against a bright, pale blue sky.",
+      "water": "Calm, clear water surrounding the subject, with gentle ripples and reflections of the architecture."
+    },
+    "pose": {
+      "posture": "Seated directly in the water, legs crossed at the knee with the upper knee breaking the water's surface.",
+      "arms": "Relaxed at sides, hands submerged or resting near the hips in the water.",
+      "angle": "Low-angle shot (worm's-eye view) looking up at the subject, enhancing her stature and dominance relative to the columns."
+    },
+    "lighting_and_mood": {
+      "lighting": "Natural daylight, slightly backlit creating a soft halo effect on the wet hair. Soft, diffuse fill light on the face to eliminate harsh shadows.",
+      "mood": "Cinematic, mythic, serene, powerful, 'modern Aphrodite' aesthetic.",
+      "colors": "Soft pastels, beige stone, dusty pink, aquatic blues."
+    },
+    "camera_and_technical": {
+      "style": "Ultra Photorealistic, RAW photo.",
+      "lens": "35mm or 50mm lens for a natural but slightly wide perspective.",
+      "aperture": "f/2.8 to f/4, creating a shallow depth of field that keeps the subject sharp while softly blurring the background columns.",
+      "quality_tags": [
+        "8k resolution",
+        "highly detailed",
+        "volumetric lighting",
+        "ray tracing reflections",
+        "hyper-realistic texture",
+        "Hasselblad photography"
+      ]
+    }
+  }
+}
